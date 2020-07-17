@@ -162,6 +162,9 @@ You'll want to make sure these load before the main script handling the form sub
   ...
 </script>
 ```
+ # 9. Credits
+
+jamiewilson
 
 # Have feedback/requests/issues?
 Please [create a new issue](https://github.com/jamiewilson/form-to-google-sheet/issues). PRs are definitely welcome, but please run your ideas by me before putting in a lot of work. Thanks!
